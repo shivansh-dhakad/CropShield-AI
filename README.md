@@ -48,7 +48,18 @@ pip install -r requirements.txt
 
 ### 2. Prepare the datasets
 
-Download the datasets for all 6 crops and store them on your device. Each crop folder should contain subfolders per disease class.
+Download the datasets for all 6 crops from Kaggle and store them on your device. Each crop folder should contain subfolders per disease class.
+
+> **Note:** A free Kaggle account is required to download. Sign up at [kaggle.com](https://www.kaggle.com) if you don't have one.
+
+| Crop | Dataset Link |
+|---|---|
+| 🍅 Tomato | https://www.kaggle.com/datasets/ashishmotwani/tomato |
+| 🍌 Banana | https://www.kaggle.com/datasets/shifatearman/bananalsd |
+| 🍓 Strawberry | https://www.kaggle.com/datasets/caozhihao/strawberry-disease-data |
+| 🍇 Grapes | https://www.kaggle.com/datasets/zienabesam/grape-plant-from-plant-village-dataset |
+| 🥭 Mango | https://www.kaggle.com/datasets/aryashah2k/mango-leaf-disease-dataset |
+| 🍠 Potato | https://www.kaggle.com/datasets/betulbny/potato |
 
 ### 3. Train the models
 
